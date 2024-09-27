@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Malarvizhi K</h1>
-<h3 align="center">A Passionate Data Analyst | Seeking Opportunities | Turning Data into Actionable Insights</h3>
-<img src="https://github.com/user-attachments/assets/0fde74c5-678f-470b-b669-32104e565e09" alt="Image description" width="500" />
-
+<h3 align="center">A Passionate Data Analyst | Turning Data into Actionable Insights</h3> 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0fde74c5-678f-470b-b669-32104e565e09" alt="Image description" width="500" height="400"/>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning at Scaler**
 
-- 👯 I’m looking to collaborate on **Data analysis and machine learning projects**
-
-- 🤝 I’m looking for help with **Advanced machine learning techniques**
-
 - 💬 Ask me about **Data Analysis, SQL, Python, Tableau, Excel, and Machine Learning**
 
+    - **Excel**: Efficient data organization and analysis
+    - **SQL**: Advanced querying for data extraction and manipulation
+    - **Tableau**: Data visualization and dashboard creation for insightful storytelling
+    - **Python**: Data cleaning, analysis, and automation
+    - **Statistics & Machine Learning**: Predictive modeling and data-driven decision-making
+    - **NumPy & Pandas**: Handling and processing large datasets with ease
+
 - 📫 How to reach me **malarvizhidineshbabu@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,8 +24,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malar1194&show_icons=true&locale=en&layout=compact" alt="malar1194" /></p>
+<img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/><img width="48" height="48" src="https://img.icons8.com/color/48/ms-excel.png" alt="ms-excel"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+
+
+
+
+
+
+
+
+
+
 
 
