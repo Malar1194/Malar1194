@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **Data Analysis, SQL, Python, Tableau, Excel, and Machine Learning**
 
-    - **Excel**: Efficient data organization and analysis
-    - **SQL**: Advanced querying for data extraction and manipulation
-    - **Tableau**: Data visualization and dashboard creation for insightful storytelling
-    - **Python**: Data cleaning, analysis, and automation
-    - **Statistics & Machine Learning**: Predictive modeling and data-driven decision-making
-    - **NumPy & Pandas**: Handling and processing large datasets with ease
+    - **Excel**: Efficient data organization and analysis.
+    - **SQL**: Advanced querying for data extraction and manipulation.
+    - **Tableau**: Data visualization and dashboard creation for insightful storytelling.
+    - **Python**: Data cleaning, analysis, and automation.
+    - **Statistics & Machine Learning**: Predictive modeling and data-driven decision-making.
+    - **NumPy & Pandas**: Handling and processing large datasets with ease.
 
 - 📫 How to reach me **malarvizhidineshbabu@gmail.com**
 
