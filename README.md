@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malarvizhi K</h1>
 <h3 align="center">A Passionate Data Analyst | Seeking Opportunities | Turning Data into Actionable Insights</h3>
+<kbd> ![Designer (4)](https://github.com/user-attachments/assets/0fde74c5-678f-470b-b669-32104e565e09)</kbd>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning at Scaler**
 
